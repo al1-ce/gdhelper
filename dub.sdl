@@ -1,0 +1,6 @@
+name "gdhelper"
+description "Simple CLI tool to init godot projects"
+authors "Alisa Lain"
+copyright "Copyright © 2022, Alisa Lain"
+license "MIT"
+targetPath "./bin/"
